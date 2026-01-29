@@ -1,0 +1,1 @@
+This repository documents a **hands-on deep learning journey** focused on **from-scratch implementations** and practical experiments. It covers **core concepts** such as neural networks, backpropagation, and optimization, and extends to **advanced topics** including CNNs, GANs, VAEs, attention mechanisms, and **Transformer architectures**, bridging **theory and practice**.
